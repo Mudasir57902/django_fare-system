@@ -26,7 +26,8 @@ SECRET_KEY = "django-insecure-2+orier8vzc%bjda05$6r+nek#+uvbcw-7cl#s(u(^2==euby@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.onrender.com']
+
 
 
 # Static files (CSS, JavaScript, Images)
